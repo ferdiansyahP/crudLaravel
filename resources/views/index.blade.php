@@ -60,7 +60,7 @@
                         <td>{{ $d->name }}</td>
                         <td>{{ $d->email }}</td>
                         <td>
-                            <a href="#" class="btn btn-success"><i class="fas fa-end"></i>Edit</a>
+                            <a href="{{ route('user.edit', ['id' => $d->id]) }}" class="btn btn-success"><i class="fas fa-end"></i>Edit</a>
                             <a href="#" class="btn btn-danger"><i class="fas fa-trash alt"></i>Hapus</a>
                         </td>
                       </tr>
