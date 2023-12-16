@@ -1,4 +1,4 @@
-Saat pengetahuan saya dipotong pada Januari 2022, Laravel versi 8 adalah yang terakhir dirilis. Jika sejak saat itu telah ada rilis Laravel 10, pastikan untuk memeriksa dokumentasi resmi Laravel untuk mendapatkan informasi terbaru. Berikut adalah contoh README.md yang dapat Anda gunakan sebagai dasar untuk proyek Laravel CRUD:
+Belajar laravel
 
 ````markdown
 # Laravel 10 CRUD Tutorial
